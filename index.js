@@ -17,7 +17,7 @@ if(suma > 10){
     console.log("Сума менша або дорівнює 10");
 };
 
-const text = "Я вивчаю JavaScript";
+const text = "Я почала вивчати JavaScript";
 
 if(text.includes("JavaScript")){
     console.log("Текст містить слово JavaScript");
