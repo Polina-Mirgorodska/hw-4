@@ -35,7 +35,7 @@ if(number >= 10 && number <= 20){
 
 const name = "Polina";
 const email = "mirgorodskapolina@gmail.com";
-const password = 4568932;
+const password = "4568932";
 
 if(name.length >= 3 && email.includes("@") && email.includes(".") && password.length >= 6) {
     console.log("Перенаправлення на іншу сторінку");
